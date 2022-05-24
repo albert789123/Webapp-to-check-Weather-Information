@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Southern Air Quality Monitoring Station",
+        "long": 114.1601401,
+        "lat": 22.24746092,
+        "address": "No.1 Aberdeen Praya Road, Hong Kong."
+    },
+    {
+        "name": "North Air Quality Monitoring Station",
+        "long": 114.12824408,
+        "lat": 22.49669723,
+        "address": "19 Pak Wo Road, Sheung Shui, New Territories."
+    },
+    {
+        "name": "Kwun Tong Air Quality Monitoring Station",
+        "long": 114.23117417,
+        "lat": 22.3096251,
+        "address": "Kwun Tong Police Station, 9 Lei Yue Mun Road, Kwun Tong, Kowloon"
+    },
+    {
+        "name": "Tseung Kwan O Air Quality Monitoring Station",
+        "long": 114.25956137,
+        "lat": 22.31764241,
+        "address": "Tseung Kwan O Sports Centre, 9 Wan Lung Road, Tseung Kwan O, Sai Kung"
+    },
+    {
+        "name": "Tuen Mun Air Quality Monitoring Station",
+        "long": 113.97672832,
+        "lat": 22.39114326,
+        "address": "Tuen Mun Public Library, 1 Tuen Hi Road, Tuen Mun, N.T."
+    },
+    {
+        "name": "Tung Chung Air Quality Monitoring Station",
+        "long": 113.94365902,
+        "lat": 22.28888887,
+        "address": "Tung Chung Health Centre , 6 Fu Tung Street, Tung Chung, New Territories"
+    },
+    {
+        "name": "Eastern Air Quality Monitoring Station",
+        "long": 114.21937156,
+        "lat": 22.28288555,
+        "address": "Sai Wan Ho Fire Station, 20 Wai Hang Street, Eastern, Hong Kong"
+    },
+    {
+        "name": "Tap Mun Air Quality Monitoring Station",
+        "long": 114.3607185,
+        "lat": 22.47131669,
+        "address": "Tap Mun Police Post"
+    },
+    {
+        "name": "Kwai Chung Air Quality Monitoring Station",
+        "long": 114.12960136,
+        "lat": 22.35710398,
+        "address": "Kwai Chung Police Station, 999 Kwai Chung Road, Kwai Chung, New Territories"
+    },
+    {
+        "name": "Yuen Long Air Quality Monitoring Station",
+        "long": 114.02264888,
+        "lat": 22.44515508,
+        "address": "Yuen Long District Office Building, 269 Castle Peak Road, Yuen Long, New Territories"
+    },
+    {
+        "name": "Sha Tin Air Quality Monitoring Station",
+        "long": 114.18453161,
+        "lat": 22.37628072,
+        "address": "Sha Tin Government Secondary School, 11-17 Man Lai Road, Sha Tin, New Territories"
+    },
+    {
+        "name": "Sham Shui Po Air Quality Monitoring Station",
+        "long": 114.15910913,
+        "lat": 22.3302259,
+        "address": "Sham Shui Po Police Station, 37A Yen Chow Street, Sham Shui Po, Kowloon"
+    },
+    {
+        "name": "Tai Po Air Quality Monitoring Station",
+        "long": 114.16457022,
+        "lat": 22.45095988,
+        "address": "Tai Po Government Offices Building, 1 Ting Kok Road, Tai Po, New Territories"
+    },
+    {
+        "name": "Mong Kok Air Quality Monitoring Station",
+        "long": 114.16827176,
+        "lat": 22.32261115,
+        "address": "Junction of Nathan Road and Lai Chi Kok Road, Mong Kok, Kowloon"
+    },
+    {
+        "name": "Central/Western Air Quality Monitoring Station",
+        "long": 114.14442071,
+        "lat": 22.28489089,
+        "address": "Sai Ying Pun Community Complex, 2 High Street, Central & Western, Hong Kong"
+    },
+    {
+        "name": "Central Air Quality Monitoring Station",
+        "long": 114.15812743,
+        "lat": 22.2818145,
+        "address": "Junction of Chater Road and Des Voeux Road Central, Central, Hong Kong"
+    },
+    {
+        "name": "Causeway Bay Air Quality Monitoring Station",
+        "long": 114.18509009,
+        "lat": 22.28013296,
+        "address": "1 Yee Wo Street, Causeway Bay, Hong Kong"
+    },
+    {
+        "name": "Tsuen Wan Air Quality Monitoring Station",
+        "long": 114.11453491,
+        "lat": 22.37174191,
+        "address": "Princess Alexandra Community Centre, 60 Tai Ho Road, Tsuen Wan, New Territories"
+    }
+]

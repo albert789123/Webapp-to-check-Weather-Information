@@ -1,0 +1,7 @@
+{
+    "log_filename": "backend_log.txt",
+    "pollution_info_url": "https://www.aqhi.gov.hk/epd/ddata/html/out/24pc_Eng.xml",
+    "database_url": "mongodb://127.0.0.1:27017",
+    "token_secret": "CSCI2720",
+    "port": 5000
+}

@@ -1,0 +1,35 @@
+/*
+Student ID | Name
+-----------------------
+1155127438 | HONG Kai Yin 
+1155141990 | NG Wing Ki Vickie
+1155142639 | LAM Yan Yu
+1155127411 | WONG Sai Ho
+1155127379 | Tang Siu Cheong
+1155133623 | Ho Lee Lee
+*/
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.map-container{
+  width: 100vw;
+  height: calc(100vh - 56px);
+}
+
+.modal-dialog:not(#logout-modal){
+  top: 50%;
+  transform: translateY(-50%);
+}

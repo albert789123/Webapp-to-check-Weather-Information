@@ -1,0 +1,46 @@
+{
+  "name": "2106project",
+  "version": "1.0.0",
+  "description": "2021-2022 CSCI2720 Course Project",
+  "main": "backend/index.js",
+  "scripts": {
+    "setup": "npm run setup-backend && npm run setup-frontend",
+    "setup-backend": "npm install",
+    "setup-frontend": "cd frontend && npm install",
+    "backend": "nodemon backend/index.js",
+    "backend:prod": "node backend/index.js",
+    "frontend": "npm start --prefix frontend",
+    "serve": "concurrently --kill-others \"npm run backend\" \"npm run frontend\"",
+    "build": "cd frontend && npm run build",
+    "predeploy": "npm run setup && npm run build",
+    "start": "npm run predeploy && npm run backend:prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LmanHong/CSCI2720-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LmanHong/CSCI2720-Project/issues"
+  },
+  "homepage": "https://github.com/LmanHong/CSCI2720-Project#readme",
+  "dependencies": {
+    "apollo-server-express": "^3.7.0",
+    "bcryptjs": "^2.4.3",
+    "concurrently": "^7.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.0",
+    "express-async-errors": "^3.1.1",
+    "fast-xml-parser": "^4.0.7",
+    "graphql": "^16.4.0",
+    "graphql-scalars": "^1.17.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.3",
+    "mongoose": "^6.3.1",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

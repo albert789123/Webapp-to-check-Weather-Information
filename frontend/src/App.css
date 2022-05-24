@@ -1,0 +1,24 @@
+/*
+Student ID | Name
+-----------------------
+1155127438 | HONG Kai Yin 
+1155141990 | NG Wing Ki Vickie
+1155142639 | LAM Yan Yu
+1155127411 | WONG Sai Ho
+1155127379 | Tang Siu Cheong
+1155133623 | Ho Lee Lee
+*/
+
+.App {
+  text-align: center;
+}
+
+@keyframes slideInFromLeft {
+  from {transform: translateX(-25rem);}
+  to {transform: translateX(0);}
+}
+
+@keyframes slideOutToLeft {
+  from {transform: translateX(0);}
+  to {transform: translateX(-25rem);}
+}
